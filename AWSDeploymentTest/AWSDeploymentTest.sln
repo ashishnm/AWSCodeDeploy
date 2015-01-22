@@ -7,6 +7,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AWSDeploymentTest", "AWSDep
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AWSDeploymentTest.Tests", "AWSDeploymentTest.Tests\AWSDeploymentTest.Tests.csproj", "{EA8AF66D-FBAD-403D-BB39-9B818C0AEFE8}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{EF994019-87B7-4667-B04F-02AECA01224C}"
+	ProjectSection(SolutionItems) = preProject
+		..\.gitattributes = ..\.gitattributes
+		..\.gitignore = ..\.gitignore
+		..\README.md = ..\README.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
